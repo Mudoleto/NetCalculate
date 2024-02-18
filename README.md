@@ -17,3 +17,10 @@ if __name__ == "__main__":
     mask_address = input("Enter the netmask:")
     
     program_start(ip_address, mask_address)
+
+
+If you need to install it, you can do it with:
+
+pip install NetCalculate
+
+Link to the library: https://pypi.org/project/NetCalculate/
