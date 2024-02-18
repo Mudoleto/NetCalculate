@@ -1,1 +1,1 @@
-from NetCalculate import calculate_network
+from .NetCalculate import calculate_network
