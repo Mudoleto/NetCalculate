@@ -1,0 +1,23 @@
+#Library Netcalculate.yml
+
+name: NetCalculate
+version: 0.0.1
+description: |
+  This tool provides a quick and efficient solution for calculating the network ID and broadcast address of an IP address in binary format, along with the identificationof the network class to which it belongs.
+author: Sandoval Garcia Sergio Alberto (Mudoleto).
+author_email: sergio.sandoval83@hotmail.com
+license: MIT
+
+#Distribution information
+packages:
+  -NetCalculate
+
+#Units
+install_requires:
+  -termcolor
+
+#Distribution information
+classifiers:
+  - "Programming Language :: Python :: 3"
+  - "License :: OSI Approved :: MIT License"
+  - "Operating System :: OS Independent"
