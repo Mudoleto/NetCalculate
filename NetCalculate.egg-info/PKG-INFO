@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: NetCalculate
-Version: 0.0.1
+Version: 0.0.2
 Summary: This tool provides a quick and efficient solution for calculating the network ID and broadcast address of an IP address in binary format, along with the identification of the network class to which it belongs.
 Home-page: https://github.com/Mudoleto
 Author: Sergio Alberto Sandoval Garcia (Mudoleto)
